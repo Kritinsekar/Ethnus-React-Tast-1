@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ethnus-React-Tast-1/static/css/main.6f79cfb5.css",
+    "main.js": "/Ethnus-React-Tast-1/static/js/main.022787d7.js",
+    "index.html": "/Ethnus-React-Tast-1/index.html",
+    "main.6f79cfb5.css.map": "/Ethnus-React-Tast-1/static/css/main.6f79cfb5.css.map",
+    "main.022787d7.js.map": "/Ethnus-React-Tast-1/static/js/main.022787d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f79cfb5.css",
+    "static/js/main.022787d7.js"
+  ]
+}
